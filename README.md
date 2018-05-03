@@ -1,5 +1,5 @@
 # The Step Event: 2D Dynamic Water and Liquids (Using Springs and Elasticity) in GameMaker Studio 2
-The source project associated with The Step Event's video: 
+The source project associated with The Step Event's video: https://youtu.be/LG3wocqjC-0
 
 ## Installation
 

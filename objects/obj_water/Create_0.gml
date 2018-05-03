@@ -5,7 +5,7 @@
  * http://TheStepEvent.com
  * May 2, 2018
  *
- * Associated YouTube video: 
+ * Associated YouTube video: https://youtu.be/LG3wocqjC-0
  */
  
 bodyX = x;				// top-left x-pos
