@@ -6,6 +6,9 @@
  * May 2, 2018
  *
  * Associated YouTube video: https://youtu.be/LG3wocqjC-0
+ *
+ * Huge credit to Michael Hoffman for his original C# & XNA tutorial on this:
+ * https://gamedevelopment.tutsplus.com/tutorials/make-a-splash-with-dynamic-2d-water-effects--gamedev-236
  */
  
 bodyX = x;				// top-left x-pos
