@@ -3,7 +3,7 @@ The source project associated with The Step Event's video: https://youtu.be/LG3w
 
 ## Installation
 
-Install YoYo Game's GameMaker: Studio (2.x [or 1.4 with minor syntaxical adjustments]), place all files in a single directory, and open sunburst_effect.yyp in the software.
+Install YoYo Game's GameMaker: Studio (2.x [or 1.4 with minor syntaxical adjustments]), place all files in a single directory, and open tse-dynamic-water.yyp in the software.
 
 ## Authors
 
